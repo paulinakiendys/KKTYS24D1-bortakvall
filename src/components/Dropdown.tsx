@@ -1,4 +1,3 @@
-import React from "react";
 import useTagsQuery from "../hooks/useTagsQuery";
 import { NavLink } from "react-router-dom";
 import Spinner from "./Spinner";

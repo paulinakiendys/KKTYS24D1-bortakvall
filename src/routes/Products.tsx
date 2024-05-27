@@ -1,4 +1,3 @@
-import React from "react";
 import useProductsQuery from "../hooks/useProductsQuery";
 import Alert from "../components/Alert";
 import Spinner from "../components/Spinner";

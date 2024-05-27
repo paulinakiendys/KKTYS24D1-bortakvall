@@ -1,4 +1,3 @@
-import React from "react";
 import { useMutation } from "@tanstack/react-query";
 import { createOrder } from "../services/API";
 import { OrderData } from "../types/Order.types";
